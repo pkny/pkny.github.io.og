@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PKNY
-tagline: Just another bunch of word salads served up on the Internet's kitchen table...
+tagline: stuff stuff stuff
 ---
 {% include JB/setup %}
 
