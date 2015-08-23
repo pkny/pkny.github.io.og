@@ -3,8 +3,9 @@
         <div class="content">
             <div class="bd">
                 <div class="entry-content">
-                {{ post.date | date_to_string }}; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>    
+                {{ post.date | date_to_string }} <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>    
 		{{ post.content }}
+		<hr>
                 </div><!-- entry-content -->
             </div><!-- bd -->
         </div><!-- content -->
