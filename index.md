@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: PKNY
+tagline: Just another bunch of word salads served up on the Internet's kitchen table...
 ---
 {% include JB/setup %}
 
